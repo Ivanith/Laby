@@ -18,7 +18,7 @@ public class Main {
 
         public void hello (String Object cos;
         cos) {
-            System.out.println();
+            System.out.println("cos tam");
         }
 
     }
